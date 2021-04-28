@@ -394,8 +394,8 @@
     }
 
     .main__img__card {
-        height: 425px;
-        width: 425px;
+        height: 400px;
+        width: 400px;
     }
 
     .main__content {
@@ -404,17 +404,17 @@
     }
 
     .main__content h1 {
-        font-size: 2.5rem;
+        font-size: 2.3rem;
         margin-top: 2rem;
     }
 
     .main__content h2 {
-        font-size: 3rem;
+        font-size: 2.7rem;
     }
 
     .main__content p {
         margin-top: 1rem;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 }
 
