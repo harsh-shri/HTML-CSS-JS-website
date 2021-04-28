@@ -421,8 +421,8 @@
 @media screen and (max-width:400px) {
 
     .main__img__card {
-        width: 250px;
-        height: 250px;
+        width: 225px;
+        height: 225px;
     }
 
     .fa-users,
@@ -431,22 +431,22 @@
     }
 
     .main__content h1 {
-        font-size: 2rem;
+        font-size: 1.8rem;
         margin-top: 3rem;
 
     }
 
     .main__content h2 {
-        font-size: 2rem;
+        font-size: 1.8rem;
     }
 
     .main__content p {
         margin-top: 2rem;
-        font-size: 1.5rem;
+        font-size: 1.2rem;
     }
 
     .main__btn {
-        padding: 12px 36px;
+        padding: 16px 32px;
         margin: 2.5rem 0;
     }
 }
